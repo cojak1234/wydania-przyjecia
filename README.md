@@ -26,4 +26,4 @@ W momencie klinięcia poza okno aplikacji, tło zmienia kolor na szary:
 
 ## Licencja
 
-[OPENSOURCE](https://opensource.org/osd)
+[Opensource](https://opensource.org/osd)
